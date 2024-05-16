@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf1af6ad268401e46b61f779d605a28d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPiece: {fileID: 752024899116900201, guid: f139823988505b54ea0f26f58965a15e, type: 3}
+  - AIPiece: {fileID: 2496797542808148521, guid: 19c44016e5e7f024c8df6a888a0368b5, type: 3}
+  - youWinText: {fileID: 6971625356141886063, guid: 9fd3e7b4184290742864604e08500d2a, type: 3}
+  - youLoseText: {fileID: 6361126954940428967, guid: 1d519e1eabd980040a3cfe5cb6eb16f8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
